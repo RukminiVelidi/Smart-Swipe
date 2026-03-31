@@ -1,5 +1,4 @@
-# 💳 Credit Card Fraud Detection
-
+# 💳 Smart Swipe
 This project applies various machine learning algorithms to detect fraudulent transactions in a credit card dataset. Fraud detection is a crucial task in finance due to the high cost of false positives and the rarity of fraud events.
 
 ---
